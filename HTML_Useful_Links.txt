@@ -1,6 +1,11 @@
 
-***You don't need to know every HTML5 element. I just use this excellent reference all the time.***
+1) ***You don't need to know every HTML5 element. I just use this excellent reference all the time.***
 Below links list all the HTML elements which is very useful.
 
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+********************************************************************************************************
+2)Super useful reference, gives you HTML entitiy name, numeric code, hex code and ISO code
+
+https://css-tricks.com/snippets/html/glyphs/
