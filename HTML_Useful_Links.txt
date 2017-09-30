@@ -1,0 +1,6 @@
+
+***You don't need to know every HTML5 element. I just use this excellent reference all the time.***
+Below links list all the HTML elements which is very useful.
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
